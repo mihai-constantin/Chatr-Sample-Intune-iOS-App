@@ -9,6 +9,7 @@ import Foundation
  The keychain is used in this app to securely store user messages and drafted messages.
  The data in the keychain persists across app instances unless deleted from the keychain.
  */
+ 
 @objc public class KeychainManager : NSObject{
     
     //Keys used in keychain to distinguish draft messages from sent messages

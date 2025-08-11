@@ -12,6 +12,7 @@ import IntuneMAMSwift
  
  NOTE: A number of other methods are avaliable in the IntuneMAMEnrollmentDelegate. See documentation or header file for more info.
  */
+ 
 class EnrollmentDelegateClass: NSObject, IntuneMAMEnrollmentDelegate {
     
     var presentingViewController: UIViewController?

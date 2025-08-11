@@ -5,6 +5,7 @@
 import IntuneMAMSwift
 
 class LoginPage: UIViewController {
+    
     /*
      Button action triggered when user presses the log in button
      
