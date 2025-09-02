@@ -21,5 +21,6 @@ class LoginPage: UIViewController {
         //Login the user through the Intune sign in flow. EnrollmentDelegateClass will handle the outcome of this.
         IntuneMAMEnrollmentManager.instance().loginAndEnrollAccount(nil)
     }
+    
 }
 
