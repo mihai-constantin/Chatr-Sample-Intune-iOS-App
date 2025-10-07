@@ -16,6 +16,7 @@ import Foundation
     static let draftMessageKey: String = "draftMessage"
     static let sentMessageKey: String = "sentMessages"
     
+    
     /*
      This function updates a user's current item in the keychain with new data
      @param user: the String representing the upn of the user to update the keychain for
